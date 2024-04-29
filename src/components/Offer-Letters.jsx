@@ -1,8 +1,14 @@
 export default function JobOffer(){
 
     return (<>
-    <a href="https://drive.google.com/drive/folders/1L_k6y8g8eHgGUHx-543XR2d5UV2yYXsa?usp=drive_link" target="_blank">Job Offers Received (Click this link)</a>
-    <br></br>
+    <ul>
+        <li><b>IBS Software Services </b>: 2013 Jan (<b>Joined</b>)</li>
+        <li><b>Wipro Tehcnologies</b> : 2016 Jun (<b>Joined</b>)</li>
+        <li><b>UST Global</b> : 2021 Jun (<b>Not joined</b> as I received an onsite oppurtunity to Doha, Qatar)</li>
+        <li><b>Cognizant Technology Services</b> : 2022 Oct (<b>Not Joined</b> as I migrated to Canada)</li>
+        <li><b>Dealer-Fx North America Inc</b> : 2023 Feb (<b>Joined</b>)</li>
+        <li><b>IRIS Software Canada</b>: 2024 Apr (<b>Project was put on hold</b>)</li>
+    </ul>
     <span><em>The purpose of this section is only to demonstrate that I have the potential and talent to work as a Front-End Developer</em></span>
     </>)
 }

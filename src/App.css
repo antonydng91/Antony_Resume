@@ -92,3 +92,10 @@ section{
 
   padding: 0.25rem 0px
 }
+
+@media screen and (max-height:700px){
+ header,footer{
+    font-size: 24px;
+  }
+
+}

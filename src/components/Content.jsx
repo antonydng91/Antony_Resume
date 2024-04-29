@@ -47,7 +47,7 @@ return <section key={index} className="sections">
                 return <article><Education/></article>
             case 'Project Details':
               return <article><ProjectDetails/></article>
-              case 'Offers/Achivements':
+              case 'Offers Received':
             return <article><JobOffer/></article>
             case 'Certifcations':
               return <article><Certifications/></article>    
