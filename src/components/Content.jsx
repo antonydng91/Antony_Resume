@@ -8,7 +8,10 @@ import Skills from './Skills';
 import WorkHistory from './Work-history';
 import Education from './Education';
 import ProjectDetails from './Project-details';
-import Github from './Github'
+import JobOffer from './Offer-Letters';
+import Github from './Github';
+import Certifications from './Certifcations';
+
 
 
 export default function Content(){
@@ -44,8 +47,11 @@ return <section key={index} className="sections">
                 return <article><Education/></article>
             case 'Project Details':
               return <article><ProjectDetails/></article>
-           
-           default:
+              case 'Offers/Achivements':
+            return <article><JobOffer/></article>
+            case 'Certifcations':
+              return <article><Certifications/></article>    
+            default:
             return null
         }
       })()}
