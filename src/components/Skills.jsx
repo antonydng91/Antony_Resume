@@ -17,6 +17,21 @@ export default function Skills(){
         <li>Sencha, Angular JS : 1 year</li>
         <li>Node JS : 2 years</li>    
     </ul>
+    <ul>
+        <li>Webpack, Vite, Babel, Rollup</li>
+        <li>NPM, Express Server</li>
+        <li>Web Test Runner (UI testing)</li>
+        <li>ESLint, Prettier</li>
+        <li>C3 charts, D3 chart</li>
+        <li>Axios, Ajax, Web Sockets</li>
+        <li>Storybook, Figma, Browser Stack, Adobe XD</li>
+        <li>Styled components, CSS modules</li>
+        <li>Floating UI</li>
+        <li>Ag Grid, React hook forms, React Query, GraphQL</li>
+        <li>Monorepo, Azure DevOps, JIRA, Git, AWS</li>
+        <li>MongoDB, MySQL (Familiar)</li>
+        <li>Web Best Practices, SEO, Accessibility, Performance</li>    
+    </ul>
 </section>)
     
 }
