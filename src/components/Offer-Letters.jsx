@@ -3,7 +3,7 @@ export default function JobOffer(){
     return (<>
     <ul>
         <li><b>IBS Software Services </b>: 2013 Jan (<b>Joined</b>)</li>
-        <li><b>Wipro Tehcnologies</b> : 2016 Jun (<b>Joined</b>)</li>
+        <li><b>Wipro Technologies</b> : 2016 Jun (<b>Joined</b>)</li>
         <li><b>UST Global</b> : 2021 Jun (<b>Not joined</b> as I received an onsite oppurtunity to Doha, Qatar)</li>
         <li><b>Cognizant Technology Services</b> : 2022 Oct (<b>Not Joined</b> as I migrated to Canada)</li>
         <li><b>Dealer-Fx North America Inc</b> : 2023 Feb (<b>Joined</b>)</li>

@@ -40,7 +40,7 @@ export default function ProjectDetails(){
         </li>
         <li>
         <b>TOPS React</b> (Jan 2019- May 2021) <b>Technology</b>: React JS | Redux | SASS | CSS3 | JavaScript <b>Type</b>: Web Application
-        
+    
         </li>
         <li>
         <b>Crew Management System</b> (May 2021 - Oct 2022) <b>Technology</b>: React | Redux | Bootstrap 5 |AG Grid <b>Type</b>: Responsive web application

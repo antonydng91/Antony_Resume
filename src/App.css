@@ -6,10 +6,6 @@
   --offWhite: #f1f1f1;
 }
 
-a:hover{
- cursor:pointer;
-}
-
 #root {
   text-align: center;
   height:100vh;
@@ -18,10 +14,9 @@ a:hover{
   width:100%;
 }
 
+
 .font-16{
-
-  font-size:16px;
-
+ font-size:1rem;
 }
 
 *{
@@ -44,11 +39,9 @@ aside{
   font-weight: 700;
 }
 
-
 section:hover aside, section:hover article{
   background-color: #fff;
 }
-
 
 article{
   width:80%;
@@ -58,13 +51,10 @@ article{
   text-align: justify;
 }
 
-
-
-
 header{
   background-color: var(--gray);
   text-align: center;
-  font-size: 35px;
+  font-size: 3rem;
   height:20%;
   color: #ffffff;
   display: flex;
@@ -75,7 +65,7 @@ header{
 footer{
   background-color: var(--gray);
   text-align: center;
-  font-size: 35px;
+  font-size: 3rem;
   height:5%;
   color: #ffffff;
   display: flex;
@@ -84,18 +74,19 @@ footer{
   justify-content: center;
 }
 
-
 section{
-  display: flex;;
+  display: flex;
 }
 .projectDetails li{
-
   padding: 0.25rem 0px
 }
 
-@media screen and (max-height:700px){
+@media screen and (max-height:700px), (max-width:992px){
  header,footer{
-    font-size: 24px;
+    font-size: 2rem;
+  }
+  :root{
+    font-size:12px;
   }
 
 }
