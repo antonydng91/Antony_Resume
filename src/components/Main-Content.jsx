@@ -5,10 +5,10 @@ import {getResumeHeadings } from '../utills/Data';
 import LinkedIn from './LinkedIn';
 import Summary from './Summary';
 import Skills from './Skills';
-import WorkHistory from './Work-History';
 import Education from './Education';
 import ProjectDetails from './Project-Details';
 import JobOffer from './Offer-Letters';
+import WorkHistory from './Work-History';
 import Github from './Github';
 import Certifications from './Certifcations';
 
@@ -47,7 +47,7 @@ return <section key={index} className="sections">
               return <article><ProjectDetails/></article>
           case 'Offers Received':
             return <article><JobOffer/></article>
-          case 'Certifcations':
+          case 'Certifications':
               return <article><Certifications/></article>    
           default:
             return null
