@@ -2,7 +2,7 @@
 export default function Certifications(){
     return(
        <div>
-          <b>In Progress.....Will be back soon</b>
+          <img src="src/assets/salesforce.png" alt="salesforce" style={{'width':'50%'}}></img>
        </div>
    )
    }
