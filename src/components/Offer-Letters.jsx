@@ -8,6 +8,8 @@ export default function JobOffer(){
         <li><b>Cognizant Technology Services</b> : 2022 Oct (<b>Not Joined</b> as I migrated to Canada)</li>
         <li><b>Dealer-Fx North America Inc</b> : 2023 Feb (<b>Joined</b>)</li>
         <li><b>IRIS Software Canada</b>: 2024 Apr (<b>Project was put on hold</b>)</li>
+        <li><b>LTIMindTree Canada</b>: 2024 May (<b>Joined</b>)</li>
+        <li><b>Ilink Digital Canada</b>: 2024 May (<b>Not Joined</b>)</li>
     </ul>
     <span><em>The purpose of this section is only to demonstrate that I have the potential and talent to work as a Front-End Developer</em></span>
     </>)
